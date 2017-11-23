@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Matthew Dang&#39;s Website</title>
+    <link>http://matthewdang.github.com/posts/</link>
+    <description>Recent content in Posts on Matthew Dang&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Nov 2017 14:42:47 -0800</lastBuildDate>
+    <atom:link href="http://matthewdang.github.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://matthewdang.github.com/posts/my-first-post/</link>
+      <pubDate>Thu, 23 Nov 2017 14:42:47 -0800</pubDate>
+      
+      <guid>http://matthewdang.github.com/posts/my-first-post/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;¡Hola!  ¡Bienvenidos a mi sitio web! ¡Está es mi primera publicación!&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
