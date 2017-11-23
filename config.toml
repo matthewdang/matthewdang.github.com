@@ -1,5 +1,5 @@
 baseurl = "http://matthewdang.github.com/"
 languageCode = "en-us"
 title = "Matthew Dang's Website"
-theme = "hugo-agency-theme"
+theme = "beautifulhugo"
 publishDir = "."
